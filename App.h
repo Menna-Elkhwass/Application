@@ -1,7 +1,7 @@
 #pragma once
 
-#ifndef app_h
-#define app_h
+#ifndef App_h
+#define App_h
 #include <stdint.h>
 void appStart();
 #endif
