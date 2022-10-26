@@ -1,6 +1,6 @@
 #pragma once
-#ifndef server_h
-#define server_h
+#ifndef Server_h
+#define Server_h
 #include "../Card/card.h"
 #include "../terminal/terminal.h"
 typedef enum EN_transState_t
