@@ -1,7 +1,7 @@
 #pragma once
 
-#ifndef card_h
-#define card_h
+#ifndef Card_h
+#define Card_h
 #include <stdint.h>
 
 typedef struct ST_cardData_t
